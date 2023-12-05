@@ -67,7 +67,7 @@ function GoogleMapsApi({
       return;
     }
 
-    const API_KEY = "AIzaSyCLY8m4NTj9mvGmc7_1U4CwDczxrR8u_1o";
+    const API_KEY = "your google api key";
     const loader = new Loader({
       apiKey: API_KEY,
     });

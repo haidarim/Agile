@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-**Note**: replpace the google api key with your own api key in googlemapsApi.tsx!
+**Note**: replace the google api key with your own api key in googlemapsApi.tsx!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
